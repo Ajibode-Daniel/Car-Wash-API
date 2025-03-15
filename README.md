@@ -122,7 +122,7 @@ This project is **open-source** under the **MIT License**.
 
 ### **🚀 Author**
 👤 **Your Name**  
-🔗 [GitHub](https://github.com/YOUR_GITHUB_USERNAME)  
+🔗 [GitHub](https://github.com/Ajibode-Daniel)  
 
 ---
 ```
