@@ -1,11 +1,11 @@
 
-### **📌 README.md**  
+### **📌README.md**  
 ```md
 # 🚗 Car Wash Booking API
 
 ### **A Node.js API for scheduling and managing car wash appointments with payment integration via Paystack.**  
 
-## **📌 Features**
+## **📌Features**
 ✅ **User Authentication** (Register & Login)  
 ✅ **Car Wash Booking System** (Create, View, Cancel)  
 ✅ **Payment Integration** (Paystack)  
@@ -23,7 +23,7 @@
 
 ---
 
-## **📌 Setup & Installation**
+## **📌Setup & Installation**
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/Ajibode-Daniel/Car-Wash-API.git
@@ -121,7 +121,7 @@ This project is **open-source** under the **MIT License**.
 ---
 
 ### **🚀 Author**
-👤 **Your Name**  
+👤 **Ajibode Daniel**  
 🔗 [GitHub](https://github.com/Ajibode-Daniel)  
 
 ---
