@@ -127,7 +127,7 @@ This project is **open-source** under the **MIT License**.
 ---
 ```
 
-✅ **What This README Includes:**
+**What This README Includes:**
 - ✅ Project Overview  
 - ✅ Features & Tech Stack  
 - ✅ Installation Steps  
